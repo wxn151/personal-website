@@ -1,11 +1,6 @@
-# CV webpage (over REACT)
+# Curriculum (with animations)
 
-Built with reusable components and styled via boostrap.
-
----
-
-## Getting Started
-
+Built with react and styled via boostrap
 ### Prerequisites
 
 - Node.js installed (https://nodejs.org/)  
