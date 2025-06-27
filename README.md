@@ -1,4 +1,4 @@
-# CV (maded with React)
+# CV webpage (over REACT)
 
 Built with reusable components and styled via boostrap.
 
@@ -22,7 +22,6 @@ cd personal_website
 ```bash
 npm install
 ```
-or
 ```bash
 yarn install
 ```
@@ -31,15 +30,13 @@ yarn install
 ```bash
 npm start
 ```
-or
 ```bash
 yarn start
 ```
 
 Open http://localhost:3000 to view it in the browser.
 
-Customization
+### Customization
 
-Edit each zone to reflect your personal information, experience, and skills.
-
+Edit each field to reflect your personal information, experience, and skills.
 Replace your porfile photo on src/asssets/profile.jpg.
