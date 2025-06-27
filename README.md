@@ -1,6 +1,7 @@
-# Curriculum (with animations)
+# Curriculum (node.js)
 
 Built with react and styled via boostrap
+
 ### Prerequisites
 
 - Node.js installed (https://nodejs.org/)  
@@ -33,5 +34,6 @@ Open http://localhost:3000 to view it in the browser.
 
 ### Customization
 
-Edit each field to reflect your personal information, experience, and skills.
+Edit personal information, experience, and skills.
+
 Replace your porfile photo on src/asssets/profile.jpg.
